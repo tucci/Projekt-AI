@@ -1,0 +1,80 @@
+Assests
+
+Animations and Character model: https://www.mixamo.com/
+
+Green/Plasma Gun model/ SciFi_Gun_Collection
+https://www.assetstore.unity3d.com/en/#!/content/56350
+
+Particle effects
+https://www.assetstore.unity3d.com/en/#!/content/73777
+
+Post Processing:
+https://www.assetstore.unity3d.com/en/#!/content/83912
+
+Unit standard assets
+https://www.assetstore.unity3d.com/en/#!/content/32351
+
+ProCore/ProBuilder / Level editor
+https://www.assetstore.unity3d.com/en/#!/content/11919
+
+Bazooka sounds and some other minor sounds
+https://www.assetstore.unity3d.com/en/#!/content/15644
+
+Weapon Icons
+https://icons8.com/icon/new-icons/all
+
+Materials and Textures
+https://www.textures.com/
+
+Sounds
+https://freesound.org/
+Sounds are heavily edited, mixed, and modified to suit custom sounds
+
+https://sketchfab.com/models/53b158b0d5a54b4491b09d1fb3058e29#
+Sci-fi Gun by Harry_L is licensed under CC Attribution
+
+https://sketchfab.com/models/fc2dafd8114447bdac9ec11dfa047317#
+Particle Accelerator Pistol(https://sketchfab.com/models/fc2dafd8114447bdac9ec11dfa047317) by Comrade1280 [FORGE3D](https://sketchfab.com/comrade1280) is licensed under CC Attribution(http://creativecommons.org/licenses/by/4.0/)
+
+
+Ruin/Rock pack/ Online Assests folder
+https://www.assetstore.unity3d.com/en/#!/content/33397
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
